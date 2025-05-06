@@ -97,13 +97,14 @@
         <a href="#contact">Payment</a>
         </div>
     </div>
-    <div class="col-md 9">
-        <!-- Page content -->
-        <div class="content">
+    <div class="col-md-9">
+       
                      @yield('content')
         </div>
+
     </div>
-        </div>
+        
+</div>
 
 </body>
 </html>
